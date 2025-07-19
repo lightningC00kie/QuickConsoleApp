@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "QuickConsoleApp/1.0.0": {
+        "runtime": {
+          "QuickConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuickConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
